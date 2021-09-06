@@ -36,4 +36,4 @@ Inventory will contains following details about product:
   -type of product(ie liquid,solid etc)
 
 # about me
-  u can ping me at : akashharit1661@gmail.com
+  You can ping me at : akashharit1661@gmail.com
